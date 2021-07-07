@@ -10,4 +10,4 @@ The GUI was made using PyQt5.
 The code might not be perfect because I am no expert at this.
 Also this might not be useful unless you are a Computer Science student of UCSC in Sri Lanka in year 2021.
 
-If you my batch mate feel free to use this, using your username and password as relavent details.
+If you are a my batch mate feel free to use this, using your username and password as relavent details.
